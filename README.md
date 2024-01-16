@@ -3,4 +3,4 @@
 
 ссылка на оригинальный мод: https://legacy.curseforge.com/minecraft/mc-mods/tinkers-evolution
 
-УЖЕ НЕ НУЖЕН
+ПЕРЕВОД ТЕПЕРЬ ЕСТЬ В САМОМ МОДЕ
